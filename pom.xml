@@ -49,10 +49,7 @@
     		<url>http://18.191.255.171:8081/nexus/content/repositories/releases</url>
  	  </repository>
  
-	  <snapshotRepository>
-    		<id>snapshots</id>
-    		<url>http://18.191.255.171:8081/nexus/content/repositories/snapshots</url>
-  	  </snapshotRepository>
+	
 
 </distributionManagement>
   
